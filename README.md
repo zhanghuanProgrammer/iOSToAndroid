@@ -1,5 +1,7 @@
 # iOSToAndroid
 代码简单转换
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/20348189/172049615-d472a75c-70cf-473c-883f-18a5151669ad.png">
+
 
 因为公司只有一个App开发,所以我又要写iOS又要写安卓,因为iOS熟悉一些,所以先把iOS写完,再照着业务逻辑写一遍安卓,每次这样好麻烦,想到做一个工具,来帮我尽可能转换一些业务代码
 
